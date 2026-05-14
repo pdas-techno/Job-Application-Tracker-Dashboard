@@ -1,0 +1,101 @@
+application_id,company_name,job_role,platform,application_date,status,salary_range,location,work_mode,required_skills,interview_date
+1,Infosys,Junior Data Analyst,Indeed,2026-03-27,Interview Scheduled,4-6 LPA,Remote,Onsite,"Python, SQL",2026-04-10
+2,KPMG,Reporting Analyst,LinkedIn,2026-02-17,Pending,4-6 LPA,Hyderabad,Onsite,"Excel, SQL",2026-03-03
+3,TCS,Power BI Developer,Naukri,2026-04-05,Rejected,6-8 LPA,Remote,Onsite,"Power BI, Excel",2026-04-19
+4,IBM,Junior Data Analyst,Company Website,2026-01-09,Interview Scheduled,5-7 LPA,Bangalore,Hybrid,"Power BI, Excel",2026-01-12
+5,Wipro,Reporting Analyst,Company Website,2026-01-11,Interview Scheduled,4-6 LPA,Kolkata,Hybrid,"SQL, Power BI",2026-01-17
+6,Deloitte,Data Analyst,Indeed,2026-03-28,Pending,3-5 LPA,Hyderabad,Onsite,"Python, SQL",2026-03-31
+7,Infosys,Reporting Analyst,Naukri,2026-02-28,Interview Scheduled,6-8 LPA,Remote,Remote,"SQL, Power BI",2026-03-12
+8,KPMG,Reporting Analyst,Indeed,2026-02-12,Pending,4-6 LPA,Bangalore,Hybrid,"SQL, Python, Power BI",2026-02-15
+9,KPMG,BI Analyst,LinkedIn,2026-03-31,Interview Scheduled,6-8 LPA,Remote,Onsite,"SQL, Power BI",2026-04-08
+10,Accenture,Junior Data Analyst,LinkedIn,2026-05-01,Pending,4-6 LPA,Bangalore,Hybrid,"Power BI, Excel",2026-05-12
+11,Accenture,Power BI Developer,Foundit,2026-01-21,Selected,5-7 LPA,Kolkata,Hybrid,"Power BI, Excel",2026-01-26
+12,Capgemini,BI Analyst,Indeed,2026-04-26,Selected,5-7 LPA,Kolkata,Hybrid,"Python, SQL",2026-05-05
+13,EY,Data Analyst,Foundit,2026-02-27,Pending,4-6 LPA,Remote,Hybrid,"Python, SQL",2026-03-13
+14,KPMG,Power BI Developer,Company Website,2026-03-20,Rejected,4-6 LPA,Remote,Onsite,"SQL, Python, Power BI",2026-03-24
+15,Infosys,Reporting Analyst,Indeed,2026-01-06,Selected,3-5 LPA,Hyderabad,Hybrid,"Python, SQL",2026-01-16
+16,Tech Mahindra,Power BI Developer,LinkedIn,2026-04-20,Interview Scheduled,4-6 LPA,Kolkata,Hybrid,"Python, SQL",2026-04-28
+17,Deloitte,Reporting Analyst,Company Website,2026-02-15,Selected,3-5 LPA,Pune,Hybrid,"SQL, Python, Power BI",2026-03-02
+18,TCS,Data Analyst,LinkedIn,2026-05-11,Rejected,3-5 LPA,Bangalore,Remote,"Python, SQL",2026-05-18
+19,EY,Data Analyst,LinkedIn,2026-01-23,Pending,6-8 LPA,Pune,Onsite,"SQL, Python, Power BI",2026-02-03
+20,Infosys,BI Analyst,Foundit,2026-03-04,Pending,5-7 LPA,Bangalore,Hybrid,"SQL, Power BI",2026-03-14
+21,Capgemini,Junior Data Analyst,Indeed,2026-04-10,Pending,4-6 LPA,Kolkata,Hybrid,"Python, SQL",2026-04-20
+22,PwC,BI Analyst,Naukri,2026-03-10,Selected,6-8 LPA,Bangalore,Hybrid,"SQL, Python, Power BI",2026-03-22
+23,TCS,Reporting Analyst,Company Website,2026-02-22,Interview Scheduled,6-8 LPA,Remote,Onsite,"Python, SQL",2026-03-07
+24,EY,Power BI Developer,LinkedIn,2026-03-05,Rejected,6-8 LPA,Kolkata,Remote,"Python, SQL",2026-03-08
+25,Capgemini,Junior Data Analyst,Foundit,2026-03-12,Pending,6-8 LPA,Remote,Hybrid,"SQL, Power BI",2026-03-18
+26,Cognizant,BI Analyst,LinkedIn,2026-01-03,Selected,6-8 LPA,Kolkata,Onsite,"Power BI, Excel",2026-01-10
+27,Infosys,BI Analyst,LinkedIn,2026-05-04,Pending,3-5 LPA,Kolkata,Hybrid,"SQL, Python, Power BI",2026-05-10
+28,Wipro,BI Analyst,Naukri,2026-03-13,Interview Scheduled,3-5 LPA,Hyderabad,Remote,"Python, SQL",2026-03-24
+29,Tech Mahindra,Data Analyst,Naukri,2026-04-03,Interview Scheduled,5-7 LPA,Pune,Remote,"Excel, SQL",2026-04-08
+30,EY,Junior Data Analyst,Naukri,2026-03-02,Interview Scheduled,6-8 LPA,Remote,Onsite,"Excel, SQL",2026-03-10
+31,Capgemini,Junior Data Analyst,Company Website,2026-03-01,Rejected,5-7 LPA,Remote,Hybrid,"SQL, Python, Power BI",2026-03-07
+32,IBM,Data Analyst,Foundit,2026-02-16,Selected,5-7 LPA,Pune,Remote,"Power BI, Excel",2026-02-26
+33,EY,Reporting Analyst,Indeed,2026-05-06,Interview Scheduled,5-7 LPA,Hyderabad,Onsite,"SQL, Python, Power BI",2026-05-15
+34,TCS,Reporting Analyst,Company Website,2026-05-06,Pending,6-8 LPA,Kolkata,Onsite,"Excel, SQL",2026-05-16
+35,Deloitte,Junior Data Analyst,Foundit,2026-01-24,Selected,6-8 LPA,Kolkata,Onsite,"Power BI, Excel",2026-01-31
+36,EY,BI Analyst,Indeed,2026-05-02,Selected,6-8 LPA,Bangalore,Hybrid,"SQL, Power BI",2026-05-06
+37,TCS,Junior Data Analyst,Company Website,2026-01-12,Pending,6-8 LPA,Kolkata,Remote,"SQL, Python, Power BI",2026-01-19
+38,Accenture,Power BI Developer,LinkedIn,2026-05-11,Pending,3-5 LPA,Remote,Hybrid,"SQL, Power BI",2026-05-25
+39,Accenture,Junior Data Analyst,Indeed,2026-01-23,Interview Scheduled,3-5 LPA,Bangalore,Hybrid,"Power BI, Excel",2026-01-31
+40,Tech Mahindra,Junior Data Analyst,LinkedIn,2026-05-06,Rejected,4-6 LPA,Kolkata,Hybrid,"Power BI, Excel",2026-05-13
+41,Cognizant,BI Analyst,Indeed,2026-05-02,Selected,4-6 LPA,Bangalore,Remote,"SQL, Power BI",2026-05-09
+42,Tech Mahindra,Reporting Analyst,Indeed,2026-04-27,Rejected,3-5 LPA,Hyderabad,Hybrid,"SQL, Power BI",2026-05-10
+43,Wipro,Junior Data Analyst,Indeed,2026-02-23,Interview Scheduled,3-5 LPA,Remote,Onsite,"SQL, Python, Power BI",2026-02-27
+44,Cognizant,Power BI Developer,Company Website,2026-04-27,Interview Scheduled,4-6 LPA,Remote,Remote,"Python, SQL",2026-05-06
+45,Wipro,Reporting Analyst,Foundit,2026-03-12,Pending,5-7 LPA,Hyderabad,Hybrid,"SQL, Power BI",2026-03-25
+46,Tech Mahindra,Junior Data Analyst,Indeed,2026-05-07,Selected,4-6 LPA,Kolkata,Remote,"SQL, Python, Power BI",2026-05-17
+47,TCS,Data Analyst,Foundit,2026-01-15,Interview Scheduled,6-8 LPA,Pune,Remote,"Python, SQL",2026-01-24
+48,KPMG,BI Analyst,LinkedIn,2026-04-10,Selected,3-5 LPA,Remote,Remote,"Power BI, Excel",2026-04-13
+49,Cognizant,Junior Data Analyst,Foundit,2026-03-22,Interview Scheduled,5-7 LPA,Pune,Onsite,"SQL, Power BI",2026-04-06
+50,TCS,Reporting Analyst,Foundit,2026-03-29,Interview Scheduled,6-8 LPA,Pune,Onsite,"SQL, Power BI",2026-04-13
+51,Deloitte,Reporting Analyst,LinkedIn,2026-03-06,Pending,4-6 LPA,Hyderabad,Remote,"Power BI, Excel",2026-03-20
+52,PwC,BI Analyst,Foundit,2026-05-08,Selected,6-8 LPA,Remote,Onsite,"Power BI, Excel",2026-05-14
+53,Deloitte,Data Analyst,LinkedIn,2026-05-01,Rejected,3-5 LPA,Kolkata,Remote,"Python, SQL",2026-05-05
+54,Cognizant,Reporting Analyst,Naukri,2026-04-12,Selected,4-6 LPA,Kolkata,Onsite,"Python, SQL",2026-04-21
+55,Infosys,Power BI Developer,Naukri,2026-01-07,Rejected,3-5 LPA,Remote,Remote,"Excel, SQL",2026-01-19
+56,TCS,Data Analyst,Foundit,2026-03-07,Rejected,6-8 LPA,Bangalore,Hybrid,"Power BI, Excel",2026-03-13
+57,PwC,Power BI Developer,Company Website,2026-05-06,Interview Scheduled,3-5 LPA,Pune,Onsite,"Excel, SQL",2026-05-16
+58,Infosys,BI Analyst,Naukri,2026-04-03,Interview Scheduled,5-7 LPA,Kolkata,Onsite,"SQL, Power BI",2026-04-06
+59,TCS,BI Analyst,Naukri,2026-04-01,Rejected,3-5 LPA,Remote,Hybrid,"Power BI, Excel",2026-04-16
+60,Infosys,Reporting Analyst,LinkedIn,2026-01-27,Selected,5-7 LPA,Kolkata,Remote,"SQL, Python, Power BI",2026-02-07
+61,Accenture,Power BI Developer,LinkedIn,2026-04-17,Interview Scheduled,5-7 LPA,Hyderabad,Remote,"SQL, Python, Power BI",2026-04-25
+62,Capgemini,Data Analyst,Foundit,2026-01-19,Selected,6-8 LPA,Hyderabad,Onsite,"Python, SQL",2026-01-22
+63,Capgemini,BI Analyst,Foundit,2026-05-10,Interview Scheduled,3-5 LPA,Kolkata,Onsite,"Python, SQL",2026-05-18
+64,Cognizant,Junior Data Analyst,Naukri,2026-02-28,Selected,3-5 LPA,Hyderabad,Remote,"SQL, Python, Power BI",2026-03-12
+65,Capgemini,Data Analyst,Company Website,2026-05-06,Interview Scheduled,3-5 LPA,Kolkata,Remote,"Power BI, Excel",2026-05-14
+66,Capgemini,Power BI Developer,Company Website,2026-02-08,Selected,3-5 LPA,Hyderabad,Onsite,"SQL, Power BI",2026-02-16
+67,KPMG,BI Analyst,Foundit,2026-04-10,Interview Scheduled,3-5 LPA,Kolkata,Onsite,"Python, SQL",2026-04-24
+68,EY,Junior Data Analyst,LinkedIn,2026-04-09,Interview Scheduled,3-5 LPA,Hyderabad,Hybrid,"SQL, Power BI",2026-04-20
+69,TCS,Power BI Developer,Naukri,2026-03-08,Interview Scheduled,5-7 LPA,Hyderabad,Hybrid,"SQL, Python, Power BI",2026-03-14
+70,IBM,Reporting Analyst,Naukri,2026-04-20,Rejected,3-5 LPA,Pune,Remote,"SQL, Python, Power BI",2026-04-27
+71,IBM,Junior Data Analyst,Naukri,2026-01-10,Rejected,5-7 LPA,Hyderabad,Hybrid,"SQL, Power BI",2026-01-19
+72,Capgemini,BI Analyst,LinkedIn,2026-05-03,Interview Scheduled,5-7 LPA,Pune,Onsite,"SQL, Python, Power BI",2026-05-09
+73,Accenture,Reporting Analyst,Indeed,2026-04-18,Interview Scheduled,5-7 LPA,Bangalore,Onsite,"SQL, Power BI",2026-04-30
+74,TCS,Power BI Developer,LinkedIn,2026-01-22,Selected,6-8 LPA,Remote,Onsite,"Excel, SQL",2026-02-02
+75,Cognizant,Junior Data Analyst,LinkedIn,2026-02-26,Selected,4-6 LPA,Hyderabad,Hybrid,"Power BI, Excel",2026-03-05
+76,Capgemini,BI Analyst,LinkedIn,2026-01-13,Rejected,4-6 LPA,Bangalore,Hybrid,"Power BI, Excel",2026-01-19
+77,Cognizant,Data Analyst,LinkedIn,2026-04-10,Rejected,5-7 LPA,Kolkata,Hybrid,"Python, SQL",2026-04-15
+78,Wipro,Power BI Developer,LinkedIn,2026-04-02,Selected,5-7 LPA,Kolkata,Onsite,"Excel, SQL",2026-04-07
+79,IBM,Reporting Analyst,Naukri,2026-02-11,Rejected,3-5 LPA,Hyderabad,Hybrid,"Excel, SQL",2026-02-16
+80,Cognizant,Reporting Analyst,Indeed,2026-03-30,Pending,4-6 LPA,Hyderabad,Onsite,"SQL, Power BI",2026-04-07
+81,Accenture,Power BI Developer,Naukri,2026-04-09,Interview Scheduled,3-5 LPA,Pune,Remote,"SQL, Power BI",2026-04-14
+82,EY,Power BI Developer,LinkedIn,2026-01-05,Interview Scheduled,6-8 LPA,Hyderabad,Remote,"Power BI, Excel",2026-01-11
+83,Accenture,Junior Data Analyst,Indeed,2026-04-04,Pending,3-5 LPA,Bangalore,Onsite,"SQL, Python, Power BI",2026-04-18
+84,EY,Junior Data Analyst,Indeed,2026-03-29,Selected,6-8 LPA,Remote,Hybrid,"SQL, Python, Power BI",2026-04-10
+85,Deloitte,Data Analyst,Company Website,2026-02-25,Rejected,5-7 LPA,Remote,Hybrid,"SQL, Python, Power BI",2026-03-01
+86,Accenture,Power BI Developer,Foundit,2026-01-25,Pending,6-8 LPA,Kolkata,Hybrid,"SQL, Python, Power BI",2026-02-06
+87,Accenture,Power BI Developer,Indeed,2026-01-28,Selected,4-6 LPA,Bangalore,Remote,"Python, SQL",2026-02-04
+88,TCS,Data Analyst,Foundit,2026-04-13,Rejected,3-5 LPA,Kolkata,Onsite,"Python, SQL",2026-04-18
+89,Deloitte,Reporting Analyst,LinkedIn,2026-02-01,Pending,4-6 LPA,Remote,Remote,"Power BI, Excel",2026-02-06
+90,TCS,Data Analyst,Naukri,2026-03-17,Interview Scheduled,6-8 LPA,Bangalore,Onsite,"Power BI, Excel",2026-03-30
+91,Cognizant,Junior Data Analyst,Company Website,2026-04-16,Selected,6-8 LPA,Remote,Remote,"SQL, Power BI",2026-04-27
+92,Cognizant,Junior Data Analyst,Indeed,2026-03-30,Selected,6-8 LPA,Remote,Onsite,"SQL, Power BI",2026-04-08
+93,Wipro,Reporting Analyst,Foundit,2026-03-23,Selected,5-7 LPA,Hyderabad,Hybrid,"Excel, SQL",2026-04-02
+94,Accenture,BI Analyst,LinkedIn,2026-05-02,Pending,4-6 LPA,Bangalore,Onsite,"SQL, Python, Power BI",2026-05-06
+95,EY,Junior Data Analyst,LinkedIn,2026-03-24,Selected,5-7 LPA,Hyderabad,Remote,"Python, SQL",2026-04-03
+96,Infosys,BI Analyst,Company Website,2026-02-23,Interview Scheduled,6-8 LPA,Hyderabad,Remote,"SQL, Power BI",2026-03-10
+97,PwC,Reporting Analyst,Foundit,2026-02-22,Pending,5-7 LPA,Kolkata,Hybrid,"Excel, SQL",2026-03-09
+98,TCS,BI Analyst,Company Website,2026-01-23,Pending,4-6 LPA,Hyderabad,Hybrid,"SQL, Python, Power BI",2026-02-06
+99,PwC,Reporting Analyst,Naukri,2026-04-11,Rejected,5-7 LPA,Bangalore,Remote,"Excel, SQL",2026-04-24
+100,IBM,Junior Data Analyst,Naukri,2026-04-20,Interview Scheduled,6-8 LPA,Kolkata,Onsite,"SQL, Power BI",2026-05-03
